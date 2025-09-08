@@ -1,0 +1,6 @@
+@api.painless.events_HostAddress = http://localhost:5031
+
+GET {{api.painless.events_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
